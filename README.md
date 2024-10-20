@@ -1,0 +1,1 @@
+# qualcomm_launch
